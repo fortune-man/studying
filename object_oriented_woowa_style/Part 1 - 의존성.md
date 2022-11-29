@@ -1,12 +1,12 @@
-# Reference 
-- [우아한 테크 세미나](https://www.youtube.com/watch?v=dJ5C4qRqAgA&t=1785s)
+# 🙇🏻‍♂️ Reference 
+- [우아한 테크 세미나](https://www.youtube.com/watch?v=dJ5C4qRqAgA&t=1785s)를 참고하여 작성된 내용입니다.
 
 ---
 ### 개요
 
 
 >'설계', '의존성', '변경'은 가장 많이 사용되는 단어입니다.
-읽어보고 출발하시죠.
+
 
 - 주제 : 의존성을 통해 설계 진화시키기
 
