@@ -33,7 +33,7 @@ Assosiation 연관관계
 A클래스에 B로 갈 수 있는 경로를 가지고 있는 경우 (코드 상 객체 참조)
 ```java
 class A {
-	private B b;
+    private B b;
 }
 ```
 
@@ -43,9 +43,9 @@ Dependency 의존관계
 (협력 시점에 일시적으로 관계 맺고 👋👋)
 ```java
 class A {
-	public B method(B b) {
-		return new B();
-	}
+    public B method(B b) {
+    	return new B();
+    }
 }
 ```
 
@@ -81,21 +81,21 @@ A 클래스 코드에 import B 패키지가 있다
 
 ```java
 class A {
-	private B b;
+    private B b;
 
-	public void setA(B b) {
-		this.b = b;
-		this.b.setA(this);
-	}
+    public void setA(B b) {
+        this.b = b;
+        this.b.setA(this);
+    }
 }
 
 class B {
 
-	private A a;
+    private A a;
 
-	public void setA(A a) {
-		this.a = a;
-	}
+    public void setA(A a) {
+        this.a = a;
+    }
 }
 
 ```
@@ -110,11 +110,11 @@ class B {
 단방향
 ```java
 class A {
-	private B b;
+    private B b;
 
-	public void setA(B b) {
-		this.b = b;
-	}
+    public void setA(B b) {
+        this.b = b;
+    }
 }
 
 class B {
@@ -130,7 +130,7 @@ class B {
 
 ```java
 class A {
-	private Collection<B> bs;
+     private Collection<B> bs;
 }
 class B{
 
@@ -150,7 +150,7 @@ class A{
 }
 
 class B {
-	private A a;
+     private A a;
 }
 ```
 
@@ -163,7 +163,7 @@ A가 B의 컬렉션을 가지는 것보다 B가 A의 단방향 참조를 가지�
 
 ```java
 class A {
-	private B b;
+    private B b;
 }
 
 class B {
@@ -181,7 +181,7 @@ class B {
 ```
 ```java
 class A {
-  private B b;
+    private B b;
 }
 
 class B {
@@ -189,6 +189,14 @@ class B {
 }
 ```
 
+```java
+class A {
+
+}
+class B {
+
+}
+```
 
 
 #### 패키지 사이클 의존성
