@@ -181,7 +181,7 @@ class B {
 ```
 ```java
 class A {
-	private B b;
+  private B b;
 }
 
 class B {
@@ -189,14 +189,7 @@ class B {
 }
 ```
 
-```java
-class A {
 
-}
-class B {
-
-}
-```
 
 #### 패키지 사이클 의존성
 
