@@ -1,5 +1,5 @@
 ## Learn
-## As if it's always the first time
+- As if it's always the first time
 <br>
 ---
 
