@@ -1,1 +1,6 @@
-## 학습 기록입니다.
+## Learn
+## As if it's always the first time
+<br>
+---
+
+![always learning like first]()
