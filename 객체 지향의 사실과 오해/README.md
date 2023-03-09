@@ -17,7 +17,7 @@
 - [정의하라, 객체지향](https://velog.io/@urtimeislimited/TIL-객체의-기준)
 
 
-## implements
+## Implements
 
 - [구현하라, 객체지향 처럼](https://velog.io/@urtimeislimited/자라기-생각하라-Eternity-처럼)
 
