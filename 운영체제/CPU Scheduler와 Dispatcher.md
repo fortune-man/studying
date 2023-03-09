@@ -3,7 +3,7 @@
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 ---
 
-## CPU Scheduler와
+## CPU Scheduler와 Dispatcher
 
 #### 프로세스를 스케줄링 하기 위한 큐 (Queue)
 
