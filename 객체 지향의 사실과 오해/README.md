@@ -1,6 +1,6 @@
 # 객체지향의 사실과 오해
 
-- [velog](https://velog.io/@urtimeislimited/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
+- [1회독](https://velog.io/@urtimeislimited/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4)
 - [우테코 프리코스 스터디 - 북클럽 2기 [벤자민]](https://github.com/joohyeongKim/study-benjamin)
 
 ## 토론 기록
