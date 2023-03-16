@@ -158,3 +158,4 @@ public class Tree {
 	- 많은 경우에 Object의 equals가 원하는 비교를 정확히 수행해준다고 합니다.
 - 재정의를 해야하는 경우엔 그 클래스의 핵심 필드를 모두 빠짐 없이, 다섯 가지 규약을  확실히 지켜가며 비교해야 합니다.
 - 필요한 경우 [AutoValue 프레임워크](https://www.baeldung.com/introduction-to-autovalue), [Lombok의 `EqualsAndHashCode`](https://kwonnam.pe.kr/wiki/java/lombok/pitfall), IDE 코드 제너레이션을 사용하여 재정의하면 실수를 줄일 수 있다고 합니다.
+
